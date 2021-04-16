@@ -1,0 +1,137 @@
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+H:\Visual Studio 2017\Projects\PrjForm\PrjForm\obj\Debug\PrjForm.pdb
+H:\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+H:\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+H:\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.pdb
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRadio.resources
+H:\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmCheck.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmCheck.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMenuMeDaddy.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRadio.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.pdb
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRestaurant.resources
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmCheck.resources
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMenuMeDaddy.resources
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRadio.resources
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRestaurant.resources
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+H:\PrjForm\PrjForm-1\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.pdb
+C:\Users\1700362\Downloads\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+C:\Users\1700362\Downloads\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+C:\Users\1700362\Downloads\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmCheck.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMenuMeDaddy.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRadio.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRestaurant.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.pdb
+C:\Users\1700362\Downloads\PrjForm\PrjForm\bin\Debug\en\PrjForm.resources.dll
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.en.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\en\PrjForm.resources.dll
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMouseEvents.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMathQuiz.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\bin\Debug\en\PrjForm.resources.dll
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmCheck.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMathQuiz.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMenuMeDaddy.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMouseEvents.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRadio.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRestaurant.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.en.resources
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\en\PrjForm.resources.dll
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.pdb
+C:\Users\Hiruma Akane\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmExam1700362_1.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\bin\Debug\en\PrjForm.resources.dll
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmExam1700362_1.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMathQuiz.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMouseEvents.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.en.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\PrjForm\obj\Debug\en\PrjForm.resources.dll
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmDropdown.resources
+C:\Users\1700362\Downloads\PrjForm\PrjForm\obj\Debug\PrjForm.FrmExam1700362_1.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\en\PrjForm.resources.dll
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmCheck.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmDropdown.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmExam1700362_1.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMathQuiz.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMenuMeDaddy.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMouseEvents.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRadio.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRestaurant.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.en.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\en\PrjForm.resources.dll
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.pdb
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\PrjForm.exe.config
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\PrjForm.exe
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\PrjForm.pdb
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\bin\Debug\en\PrjForm.resources.dll
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.csprojResolveAssemblyReference.cache
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmCheck.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmDropdown.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmExam1700362_1.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMathQuiz.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMenuMeDaddy.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMicrowaveCountDown.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmMouseEvents.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRadio.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRectangle.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmRestaurant.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.Properties.Resources.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.FrmLucky7.en.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.csproj.GenerateResource.Cache
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\en\PrjForm.resources.dll
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.exe
+C:\Users\1700362\Downloads\HA_F2017_IntPro\PrjForm\PrjForm\obj\Debug\PrjForm.pdb

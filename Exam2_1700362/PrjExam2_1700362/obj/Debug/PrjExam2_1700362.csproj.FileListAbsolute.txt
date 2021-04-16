@@ -1,0 +1,9 @@
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\bin\Debug\PrjExam2_1700362.exe.config
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\bin\Debug\PrjExam2_1700362.exe
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\bin\Debug\PrjExam2_1700362.pdb
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\obj\Debug\PrjExam2_1700362.csprojResolveAssemblyReference.cache
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\obj\Debug\PrjExam2_1700362.FrmExam2.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\obj\Debug\PrjExam2_1700362.Properties.Resources.resources
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\obj\Debug\PrjExam2_1700362.csproj.GenerateResource.Cache
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\obj\Debug\PrjExam2_1700362.exe
+C:\Users\1700362\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjExam2_1700362\PrjExam2_1700362\obj\Debug\PrjExam2_1700362.pdb

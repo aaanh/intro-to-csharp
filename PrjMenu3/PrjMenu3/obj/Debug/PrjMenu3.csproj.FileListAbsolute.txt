@@ -1,0 +1,27 @@
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.exe.config
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.exe
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.pdb
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.csprojResolveAssemblyReference.cache
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.FrmLoan.resources
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.Properties.Resources.resources
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.csproj.GenerateResource.Cache
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.exe
+C:\Users\1700362\Downloads\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.pdb
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.exe.config
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.exe
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.pdb
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.csprojResolveAssemblyReference.cache
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.FrmLoan.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.Properties.Resources.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.csproj.GenerateResource.Cache
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.exe
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.pdb
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.exe.config
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.exe
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\bin\Debug\PrjMenu3.pdb
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.csprojResolveAssemblyReference.cache
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.FrmLoan.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.Properties.Resources.resources
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.csproj.GenerateResource.Cache
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.exe
+C:\Users\Hiruma Akane\Downloads\HA_F2017_IntPro\HA_F2017_IntPro\PrjMenu3\PrjMenu3\obj\Debug\PrjMenu3.pdb
