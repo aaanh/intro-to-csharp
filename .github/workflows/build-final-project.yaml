@@ -6,7 +6,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
       branches:
-          - master
+          - main
       paths-ignore:
           - "azure-pipelines.yml"
   pull_request:
@@ -28,5 +28,5 @@ jobs:
           msbuild-architecture: x64
 
       - name: Build app for release
-        run: msbuild src\PrjCar\PrjCar\PrjCar.csproj -t:rebuild -verbosity:diag -property:Configuration=Release
+        run: msbuild .\PrjCar\PrjCar\PrjCar.csproj -t:rebuild -verbosity:diag -property:Configuration=Release
   
