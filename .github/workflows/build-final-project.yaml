@@ -5,10 +5,12 @@ permissions:
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-      branches:
-          - main
-      paths-ignore:
-          - "azure-pipelines.yml"
+    branches:
+      - main
+    paths-ignore:
+      - "azure-pipelines.yml"
+      - "README.md"
+
   pull_request:
       paths-ignore:
           - "azure-pipelines.yml"
@@ -16,11 +18,12 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 jobs:
-  build:
+  buildandrelease:
     runs-on: windows-latest
     steps:
       - name: Checkout source code
         uses: actions/checkout@v3
+
       - name: Add msbuild to PATH
         uses: microsoft/setup-msbuild@v1.1
         with:
@@ -29,4 +32,33 @@ jobs:
 
       - name: Build app for release
         run: msbuild .\PrjCar\PrjCar\PrjCar.csproj -t:rebuild -verbosity:diag -property:Configuration=Release
-  
+      
+      - name: Stage release
+        run: cp .\PrjCar\PrjCar\bin\Release\PrjCar.exe .\KanColle.exe
+
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: true
+          prerelease: false
+
+      - name: Upload release asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./KanColle.exe
+          asset_name: KanColle.exe
+          asset_content_type: application/vnd.microsoft.portable-executable
+      - name: Publish release
+        uses: StuYarrow/publish-release@v1.1.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          id: ${{ steps.create_release.outputs.id }}
