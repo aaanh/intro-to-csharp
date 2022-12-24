@@ -1,0 +1,17 @@
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\bin\Release\PrjCar.exe.config
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\bin\Release\PrjCar.exe
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\bin\Release\PrjCar.pdb
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.csproj.AssemblyReference.cache
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.FrmMutsuki.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.FrmFubuki.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.FrmNagara.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.FrmShiratsuyu.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.FrmAyanami.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.FrmClass.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.FrmYamatonoBaka.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.Properties.Resources.resources
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.csproj.GenerateResource.cache
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.csproj.CoreCompileInputs.cache
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.exe
+C:\Users\hoang\repos\intro-to-csharp\PrjCar\PrjCar\obj\Release\PrjCar.pdb
