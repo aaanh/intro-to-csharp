@@ -1,5 +1,7 @@
 # Winter 2017 Final project - Intro to programming
 
+ℹ️ Portable executable available in the Release section of the repository.
+
 ### Dependencies:
 - MSVC# .NET Framework v=4.5.2
 - Visual Studio IDE (preferably 2017)
